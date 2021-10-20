@@ -1,2 +1,4 @@
-# belajar-gitngithub
-Untuk belajar mengenai git dan github.
+# belajar-pemrograman
+Belajar pemrograman secara bertahap.
+
+Modul:
